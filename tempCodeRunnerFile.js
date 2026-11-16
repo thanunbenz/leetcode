@@ -1,0 +1,1 @@
+    return strs[0];
